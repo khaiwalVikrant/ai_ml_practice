@@ -208,4 +208,4 @@ marimo/_lsp/
 __marimo__/
 
 # Ignore ML model files
-heads_on_machine_learning/*.pkl
+*.pkl
