@@ -1,0 +1,7 @@
+,type
+country,object
+beer_servings,int64
+spirit_servings,int64
+wine_servings,int64
+total_litres_of_pure_alcohol,float64
+continent,object
